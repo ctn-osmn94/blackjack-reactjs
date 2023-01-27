@@ -1,0 +1,262 @@
+[
+  {
+    "suit": "hearts",
+    "value": 2,
+    "image":"/images/hearts_2.svg"
+  },
+  {
+    "suit": "hearts",
+    "value": 3,
+    "image":"/images/hearts_3.svg"
+  },
+  {
+    "suit": "hearts",
+    "value": 4,
+    "image":"/images/hearts_4.svg"
+  },
+  {
+    "suit": "hearts",
+    "value": 5,
+    "image":"/images/hearts_5.svg"
+  },
+  {
+    "suit": "hearts",
+    "value": 6,
+    "image":"/images/hearts_6.svg"
+  },
+  {
+    "suit": "hearts",
+    "value": 7,
+    "image":"/images/hearts_7.svg"
+  },
+  {
+    "suit": "hearts",
+    "value": 8,
+    "image":"/images/hearts_8.svg"
+  },
+  {
+    "suit": "hearts",
+    "value": 9,
+    "image":"/images/hearts_9.svg"
+  },
+  {
+    "suit": "hearts",
+    "value": 10,
+    "image":"/images/hearts_10.svg"
+  },
+  {
+    "suit": "hearts",
+    "value": "J",
+    "image":"/images/hearts_jack.svg"
+  },
+  {
+    "suit": "hearts",
+    "value": "Q",
+    "image":"/images/hearts_queen.svg"
+  },
+  {
+    "suit": "hearts",
+    "value": "K",
+    "image":"/images/hearts_king.svg"
+  },
+  {
+    "suit": "hearts",
+    "value": "A",
+    "image":"/images/hearts_ace.svg"
+  },
+  {
+    "suit": "diamonds",
+    "value": 2,
+    "image":"/images/diamonds_2.svg"
+  },
+  {
+    "suit": "diamonds",
+    "value": 3,
+    "image":"/images/diamonds_3.svg"
+  },
+  {
+    "suit": "diamonds",
+    "value": 4,
+    "image":"/images/diamonds_4.svg"
+  },
+  {
+    "suit": "diamonds",
+    "value": 5,
+    "image":"/images/diamonds_5.svg"
+  },
+  {
+    "suit": "diamonds",
+    "value": 6,
+    "image":"/images/diamonds_6.svg"
+  },
+  {
+    "suit": "diamonds",
+    "value": 7,
+    "image":"/images/diamonds_7.svg"
+  },
+  {
+    "suit": "diamonds",
+    "value": 8,
+    "image":"/images/diamonds_8.svg"
+  },
+  {
+    "suit": "diamonds",
+    "value": 9,
+    "image":"/images/diamonds_9.svg"
+  },
+  {
+    "suit": "diamonds",
+    "value": 10,
+    "image":"/images/diamonds_10.svg"
+  },
+  {
+    "suit": "diamonds",
+    "value": "J",
+    "image":"/images/diamonds_jack.svg"
+  },
+  {
+    "suit": "diamonds",
+    "value": "Q",
+    "image":"/images/diamonds_queen.svg"
+  },
+  {
+    "suit": "diamonds",
+    "value": "K",
+    "image":"/images/diamonds_king.svg"
+  },
+  {
+    "suit": "diamonds",
+    "value": "A",
+    "image":"/images/diamonds_ace.svg"
+  },
+  {
+    "suit": "clubs",
+    "value": 2,
+    "image":"/images/clubs_2.svg"
+  },
+  {
+    "suit": "clubs",
+    "value": 3,
+    "image":"/images/clubs_3.svg"
+  },
+  {
+    "suit": "clubs",
+    "value": 4,
+    "image":"/images/clubs_4.svg"
+  },
+  {
+    "suit": "clubs",
+    "value": 5,
+    "image":"/images/clubs_5.svg"
+  },
+  {
+    "suit": "clubs",
+    "value": 6,
+    "image":"/images/clubs_6.svg"
+  },
+  {
+    "suit": "clubs",
+    "value": 7,
+    "image":"/images/clubs_7.svg"
+  },
+  {
+    "suit": "clubs",
+    "value": 8,
+    "image":"/images/clubs_8.svg"
+  },
+  {
+    "suit": "clubs",
+    "value": 9,
+    "image":"/images/clubs_9.svg"
+  },
+  {
+    "suit": "clubs",
+    "value": 10,
+    "image":"/images/clubs_10.svg"
+  },
+  {
+    "suit": "clubs",
+    "value": "J",
+    "image":"/images/clubs_jack.svg"
+  },
+  {
+    "suit": "clubs",
+    "value": "Q",
+    "image":"/images/clubs_queen.svg"
+  },
+  {
+    "suit": "clubs",
+    "value": "K",
+    "image":"/images/clubs_king.svg"
+  },
+  {
+    "suit": "clubs",
+    "value": "A",
+    "image":"/images/clubs_ace.svg"
+  },
+  {
+    "suit": "spades",
+    "value": 2,
+    "image":"/images/spades_2.svg"
+  },
+  {
+    "suit": "spades",
+    "value": 3,
+    "image":"/images/spades_3.svg"
+  },
+  {
+    "suit": "spades",
+    "value": 4,
+    "image":"/images/spades_4.svg"
+  },
+  {
+    "suit": "spades",
+    "value": 5,
+    "image":"/images/spades_5.svg"
+  },
+  {
+    "suit": "spades",
+    "value": 6,
+    "image":"/images/spades_6.svg"
+  },
+  {
+    "suit": "spades",
+    "value": 7,
+    "image":"/images/spades_7.svg"
+  },
+  {
+    "suit": "spades",
+    "value": 8,
+    "image":"/images/spades_8.svg"
+  },
+  {
+    "suit": "spades",
+    "value": 9,
+    "image":"/images/spades_9.svg"
+  },
+  {
+    "suit": "spades",
+    "value": 10,
+    "image":"/images/spades_10.svg"
+  },
+  {
+    "suit": "spades",
+    "value": "J",
+    "image":"/images/spades_jack.svg"
+  },
+  {
+    "suit": "spades",
+    "value": "Q",
+    "image":"/images/spades_queen.svg"
+  },
+  {
+    "suit": "spades",
+    "value": "K",
+    "image":"/images/spades_king.svg"
+  },
+  {
+    "suit": "spades",
+    "value": "A",
+    "image":"/images/spades_ace.svg"
+  }
+]
